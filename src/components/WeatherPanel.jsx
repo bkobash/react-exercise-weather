@@ -102,7 +102,7 @@ var List = React.createClass({
       color: "white",
       borderRadius: 6,
       overflow: "hidden",
-      font: "500 14px HelveticaNeue-Medium HelveticaNeue, Helvetica-Neue, Helvetica, sans-serif"
+      font: "500 14px HelveticaNeue-Medium, HelveticaNeue, Helvetica-Neue, Helvetica, sans-serif"
     };
 
     var fiveDayForecastStyle = {
